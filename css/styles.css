@@ -692,6 +692,7 @@ progress {
     margin-left: auto;
 }
 
+
 @media (min-width: 576px) {
     .container-sm,
     .container {
@@ -7980,6 +7981,11 @@ fieldset:disabled .btn {
     margin-top: 4rem;
     margin-bottom: 2rem;
 }
+
+.mb-8 {
+    margin-bottom: 1rem;
+}
+
 
 .mb-auto {
     margin-bottom: auto !important;
