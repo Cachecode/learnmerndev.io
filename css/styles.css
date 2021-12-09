@@ -205,6 +205,10 @@ li {
     list-style-type: square;
 }
 
+li.nav-item {
+    list-style-type: none;
+}
+
 ol,
 ul {
     padding-left: 2rem;
